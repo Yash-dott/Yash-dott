@@ -1,5 +1,7 @@
 # 💫 About Me:
-i'm a react native developer with 3+ years of experience, worked on multiple production application
+I am a React Native Developer with over 3 years of professional experience building, shipping, and maintaining production-ready mobile applications for Android and iOS.
+
+My work focuses on writing clean, maintainable code, delivering reliable features, and ensuring stable performance across devices. I have experience working across the full development lifecycle, including feature development, API integration, debugging production issues, and app store releases.
 
 
 ## 🌐 Socials:
