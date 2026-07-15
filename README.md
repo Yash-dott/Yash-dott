@@ -1,5 +1,9 @@
 <!-- Replace Yash-dott everywhere below with your actual GitHub username -->
 
+<p align="center">
+  <img src="./linkedin_banner.png" alt="Yash Kumar Jha banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Yash Kumar Jha</h1>
 <h3 align="center">Software Engineer | Mobile Application Developer | React Native Specialist</h3>
 
