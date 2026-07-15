@@ -1,4 +1,4 @@
-<!-- Replace YOUR_USERNAME everywhere below with your actual GitHub username -->
+<!-- Replace Yash-dott everywhere below with your actual GitHub username -->
 
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">Frontend / React Native Developer — building clean architecture & polished UI</h3>
@@ -43,16 +43,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yash-dott&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-dott&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-dott&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-dott&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yash-dott&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -68,15 +68,15 @@
 ### 📈 More Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yash-dott&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" alt="profile views" />
+  <img src="https://profile-counter.glitch.me/Yash-dott/count.svg" alt="profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="all-time commit stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-dott&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="all-time commit stats" />
 </p>
 
 ---
@@ -86,7 +86,7 @@
 <p align="center">
   If you like what I build, consider buying me a coffee!
   <br/><br/>
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+  <a href="https://www.buymeacoffee.com/Yash-dott" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
   </a>
 </p>
