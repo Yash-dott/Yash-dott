@@ -54,29 +54,6 @@ I'm a software engineer with 3+ years of experience building cross-platform mobi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-dott&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yash-dott&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 📈 More Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yash-dott&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yash-dott&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash-dott&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="all-time commit stats" />
-</p>
 
 ---
 
