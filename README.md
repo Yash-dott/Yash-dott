@@ -89,7 +89,7 @@
 <p align="center">
   If you like what I build, consider buying me a coffee!
   <br/><br/>
-  <a href="https://buymeacoffee.com/yashelsestrain" target="_blank">
+  <a href="https://www.buymeacoffee.com/Yash-dott" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
   </a>
 </p>
