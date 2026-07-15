@@ -1,34 +1,30 @@
 <!-- Replace Yash-dott everywhere below with your actual GitHub username -->
 
-<h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">Frontend / React Native Developer — building clean architecture & polished UI</h3>
+<h1 align="center">Hi 👋, I'm Yash Kumar Jha</h1>
+<h3 align="center">Software Engineer | Mobile Application Developer | React Native Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=React+Native+%7C+React+%7C+TypeScript;Feature-Sliced+Design+Architecture;Design-driven+Frontend+Engineering;Building+things+that+don't+look+templated" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=React+Native+%7C+React+%7C+TypeScript;3%2B+Years+Building+Cross-Platform+Apps;Turbo+Modules+%7C+OTA+%7C+Real-Time+Sync;Published+NPM+Author+%40nexara%2Fnativeflow" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yash-dott" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yashkumarjha20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://nexara-nativeflow-docs.onrender.com" target="_blank"><img src="https://img.shields.io/badge/NPM_Docs-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🧭 About Me
 
-- 🎨 Frontend developer with a strong eye for **UI/UX** and visual polish
-- 📱 Building **React Native** apps with clean, scalable **Feature-Sliced Design** architecture
-- 🧱 Believer in: features never import from each other, shared never imports from features
-- 🧠 State management done right — Zustand for global/app state, TanStack Query for server state
-- 🚫 Anti-generic design philosophy — UI should be derived from the subject matter, not a template
+I'm a software engineer with 3+ years of experience building cross-platform mobile and web applications. My core strength is **React Native**, including Turbo Modules, background services, OTA updates, deep linking, and real-time sync with Socket.io, but I work just as comfortably across **React**, **Next.js**, and **Node.js** on the web side. I've handled full release cycles for the Play Store and App Store, kept production stable using Sentry, and published an open-source UI library, **@nexara/nativeflow**, to cut down on repetitive component work. I'm also comfortable moving further across the stack when needed, including Firebase, REST APIs, and AWS, but wherever the code lives, my focus stays on the frontend, where it actually meets the user.
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,js,html,css,tailwind,figma,git,github,vscode,nodejs,npm,aws,gcp,azure,docker" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,html,css,tailwind,figma,git,github,vscode,nodejs,npm,aws,gcp,azure,docker" />
 </p>
 
 <p align="center">
